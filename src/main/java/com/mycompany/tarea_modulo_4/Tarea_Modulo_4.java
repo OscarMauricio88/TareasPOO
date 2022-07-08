@@ -7,7 +7,7 @@ package com.mycompany.tarea_modulo_4;
 
 /**
  *
- * @author Gladys Sosa
+ * @author oscar mauaricio
  */
 public class Tarea_Modulo_4 {
 
